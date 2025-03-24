@@ -38,7 +38,7 @@ The key parameters for this strategy were:
 ### Results:
 - **Sharpe Ratio:** 0.31 (20-year period)
 - **Win Rate:** 1.33%
-- **Maximum Drawdown:** 5381
+- **Maximum Drawdown:** 5.381%
 - **Annualized Return:** 2.75%
 
 ---
