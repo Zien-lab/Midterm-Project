@@ -22,7 +22,7 @@ We tested multiple models for SPY and found that the **classic SME (Simple Movin
 ### Results:
 - **Sharpe Ratio:** 0.32 (using the 1.64% risk-free rate)
 - **Win Rate:** 52%
-- **Maximum Drawdown:** -40.12%
+- **Maximum Drawdown:** 40.12%
 - **Annualized Return:** 6.13%
 
 ---
@@ -38,7 +38,7 @@ The key parameters for this strategy were:
 ### Results:
 - **Sharpe Ratio:** 0.31 (20-year period)
 - **Win Rate:** 1.33%
-- **Maximum Drawdown:** -53.81%
+- **Maximum Drawdown:** 5381
 - **Annualized Return:** 2.75%
 
 ---
