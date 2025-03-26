@@ -1,4 +1,4 @@
-# Midterm-Project
+# Quantamental Investment: Midterm-Project
 
 ## Trading Strategy
 
